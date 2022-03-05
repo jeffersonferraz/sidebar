@@ -10,6 +10,7 @@
 body {
     font-family: 'Source Code Pro', monospace;
     background-image: url(bg.jpg);
+    background-color: #07071b;
     background-size: cover;
     background-repeat: no-repeat;
 }
