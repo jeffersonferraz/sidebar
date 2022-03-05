@@ -9,7 +9,9 @@
 
 body {
     font-family: 'Source Code Pro', monospace;
-    background: whitesmoke;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #check {
@@ -96,7 +98,7 @@ label #cancel {
     left: 0%;
     height: 130%;
     background: linear-gradient(to right, gold, orangered);
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 10px;
 }
 
 .menu li::after {
